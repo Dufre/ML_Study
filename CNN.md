@@ -6,6 +6,7 @@ Says whether a picture is of an X or an O
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210214144630309.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEzOTE2Mjk=,size_16,color_FFFFFF,t_70)
 
 For example
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210214144630348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEzOTE2Mjk=,size_16,color_FFFFFF,t_70)
 
 **Trickier Cases**
